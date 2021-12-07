@@ -9,7 +9,7 @@ Computer vision is currently experiencing success in various domains due to the 
 
 ### Model Architecture
 
-![model](https://github.com/QuwsarOhi/fruitdet/blob/master/imgs/model.png)
+![model](https://github.com/QuwsarOhi/fruitdet/blob/main/imgs/model.png)
 
 
 ### Keywords:
